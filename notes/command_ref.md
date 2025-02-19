@@ -62,4 +62,13 @@ show modules status
 show modules detail
 ```
 
+-------
+## Layer 2
+```
+show lldp neighbors
+show lldp neighbors detail
+
+show cdp neighbors
+show cdp neihbors detail
+```
 
