@@ -56,6 +56,10 @@ show environment all
 show environment cooling
 show environment power
 show environment temperature
+
+show modules
+show modules status
+show modules detail
 ```
 
 
