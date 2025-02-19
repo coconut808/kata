@@ -71,4 +71,24 @@ show lldp neighbors detail
 show cdp neighbors
 show cdp neihbors detail
 ```
+-----
+ARP
+```
+show arp
+show ip arp
+show arp vlan <id>
+clear arp cache
+
+# check if MAC is in ARP table
+show arp | include <ip-address>
+show arp | include <mac-address>
+show mac address-table>
+```
+-----
+```
+show redundancy status
+show redundancy states
+show redundancy protocol
+```
+
 
